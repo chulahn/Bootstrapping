@@ -14,8 +14,7 @@ footer {
 }
 
 .navbar img {
-	width: 20%;
-	height: 20%;
+
 }
 
 .fill-screen {
@@ -25,6 +24,7 @@ footer {
 
 .content-filler {
 	min-height: 350px;
+	text-align: center;
 }
 
 .fixed-attachment {
