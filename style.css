@@ -1,6 +1,5 @@
 body {
 	font-family: 'Open Sans', sans-serif;
-	padding-top: 200px;
 }
 
 footer {
@@ -17,4 +16,9 @@ footer {
 .navbar img {
 	width: 20%;
 	height: 20%;
+}
+
+.fill-screen {
+	background-size: cover;
+	background-position: center;
 }
